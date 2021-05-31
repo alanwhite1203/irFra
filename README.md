@@ -84,6 +84,10 @@ Fixed Rate	0.014399	Spread	-0.014399
 		Day Count	dcAct360
 
 
-You can find more details at
-https://finpricing.com/knowledge.html
+References:
+
+https://finpricing.com/lib/EqLookback.html
+
+https://bitbucket.org/cmrm11/irfra/downloads/IrFra-33.pdf
+
 
